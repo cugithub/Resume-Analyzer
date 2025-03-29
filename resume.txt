@@ -1,0 +1,64 @@
+Aspiring Software Development Engineer with a strong foundation in C++, Java, and Python. Passionate about web development, artificial intelligence, and problem-solving. Published three research papers and built multiple academic projects. A collaborative team player with a track record of delivering high-quality work.
+
+🎓 Education
+Bachelor of Engineering (Computer Science)
+📍 Chandigarh University | 2020 - 2024
+
+Senior Secondary
+📍 Achievers Home Public School | 2019 - 2020
+
+Secondary
+📍 D.A.V. Centenary Public School | 2017 - 2018
+
+💼 Work Experience
+Trainee | DUCAT
+📍 Gurugram | June 2022 - August 2022
+
+Designed and developed a website using HTML, CSS, and JavaScript.
+
+Learned fundamental concepts of web development and software engineering best practices.
+
+📜 Research Papers
+📌 Recommender System for Personalized Health and Fitness Plans (Feb 2024 - May 2024)
+
+Developed a system to provide personalized health recommendations using AI.
+
+📌 Multi-Lingual Text Classifiers (Aug 2023 - Nov 2023)
+
+Built a text classification model supporting multiple languages to improve global communication.
+
+🚀 Projects
+📌 Human Activity Recognition using Smartphone Dataset (Feb 2023 - May 2023)
+
+Applied machine learning and computer vision for security surveillance and healthcare monitoring.
+
+Technologies Used: JavaScript, Python, ML
+
+📌 Restaurant Website (Jan 2022 - May 2022)
+
+Developed an interactive website showcasing restaurant menus, location, and contact details.
+
+📌 AI-Powered Chatbot (Feb 2021 - Apr 2021)
+
+Built a chatbot using AI algorithms to analyze and respond to user queries efficiently.
+
+🛠 Technical Skills
+✅ Programming Languages: C++, Java, Python
+✅ Web Development: HTML, CSS, JavaScript, React, Node.js, Django
+✅ AI/ML & Data Science: Machine Learning, Data Structures, Python AI/ML
+✅ Database & Cloud: MySQL, AWS
+✅ Version Control & DevOps: Git, Docker, Kubernetes, RabbitMQ
+✅ Software Testing: Pytest, Apache
+
+📜 Certifications
+🏆 Software Testing (NPTEL)
+🏆 Algorithm Toolbox (Coursera)
+🏆 Web Development (HTML, CSS, JS)
+🏆 Django Specialization (Coursera)
+
+🗣 Languages
+🗨 English – Full Professional Proficiency
+🗨 Hindi – Native/Bilingual Proficiency
+
+🎯 Interests
+✈️ Traveling | 🤖 AI & ML | 🏗 Web Development
